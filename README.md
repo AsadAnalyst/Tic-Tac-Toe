@@ -43,9 +43,11 @@
 Therefore, AI **playing first** generally performs **better** as it sets the pace of the game and controls key positions from the start.
 
 
-![](Aspose.Words.bedeae98-9c2e-4dd4-983c-28af5aceef7e.001.png)![A screenshot of a computer program
+![](Aspose.Words.bedeae98-9c2e-4dd4-983c-28af5aceef7e.001.png)!
+[A screenshot of a computer program
 
-AI-generated content may be incorrect.](Aspose.Words.bedeae98-9c2e-4dd4-983c-28af5aceef7e.002.png)
+AI-generated content may be incorrect.]
+![](Aspose.Words.bedeae98-9c2e-4dd4-983c-28af5aceef7e.002.png)!
 
 
 
