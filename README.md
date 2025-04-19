@@ -44,9 +44,7 @@ Therefore, AI **playing first** generally performs **better** as it sets the pac
 
 
 ![](Aspose.Words.bedeae98-9c2e-4dd4-983c-28af5aceef7e.001.png)!
-[A screenshot of a computer program
 
-AI-generated content may be incorrect.]
 ![](Aspose.Words.bedeae98-9c2e-4dd4-983c-28af5aceef7e.002.png)!
 
 
